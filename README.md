@@ -21,6 +21,10 @@ Each RGB image has a resolution of 640 × 640 pixels.
 
 The dataset was used to train a YOLOv7 model -- allowing to obtain the following results.
 
+AI-powered annotation of Sunspots with a Hestia portable telescope (11/2/2025)
+
+[![AI-powered annotation of Sunspots with a Hestia portable telescope (11/2/2025)](https://img.youtube.com/vi/mAL11LlenAw/0.jpg)](https://www.youtube.com/watch?v=mAL11LlenAw)
+
 AI-powered annotation of Sunspots with a Vespera smart telescope (6/8/2024)
 
 [![AI-powered annotation of Sunspots with a Vespera smart telescope (6/8/2024)](https://img.youtube.com/vi/Wt6HzRm1uYk/0.jpg)](https://www.youtube.com/watch?v=Wt6HzRm1uYk)
