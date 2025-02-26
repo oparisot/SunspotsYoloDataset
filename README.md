@@ -32,11 +32,11 @@ AI-powered annotation of Sunspots with a Vespera smart telescope (6/8/2024)
 
 The dataset can be found here:
 
-- **[2024] SunspotsYoloDataset: annotated solar images captured with smart telescopes (January 2023 - May 2024) ** – [DOI Link](https://doi.org/10.5281/zenodo.11441091) 
+- **[2024] SunspotsYoloDataset: annotated solar images captured with smart telescopes (January 2023 - May 2024)** – [DOI Link](https://doi.org/10.5281/zenodo.11441091) 
 
 The following studies were based on this dataset:
 
-- **[2024] Data and models for sunspots detection in solar images captured with smart telescopes ** – [Link](https://www.doopyon.org/docs/publications/artiis2024-parisot.pdf)  
+- **[2024] Data and models for sunspots detection in solar images captured with smart telescopes** – [Link](https://www.doopyon.org/docs/publications/artiis2024-parisot.pdf)  
   
 If you use this dataset in a publication, please notify us to include it in this list.
 
